@@ -1,0 +1,277 @@
+### UNIVERSITY_OVERVIEW
+University Name | Northern University
+Established | 2002
+Type | Private University
+Description | Northern University is a private institution providing quality education in Arts, Social Sciences, Engineering, IT, and Sciences with a focus on research and innovation.
+
+### LOCATION_CONTACT
+Address | Wattar Wali Road, Nowshera, Pakistan
+City | Nowshera
+Province | Khyber Pakhtunkhwa
+Country | Pakistan
+Phone | +92 311 5373846
+Email | info@northernuniversity.edu.pk
+Website | https://northern.edu.pk
+
+### TIMINGS
+--- OFFICE_HOURS of University
+Monday-Friday | 9:00 AM - 5:00 PM
+Saturday | 9:00 AM - 1:00 PM
+Sunday | Closed
+
+--- CLASS_TIMINGS of University
+Morning Shift | 8:30 AM - 1:30 PM
+Evening Shift | 2:00 PM - 7:00 PM
+
+### FACULTIES_PROGRAMS
+
+--- FACULTY_FASS
+Faculty Name | Faculty of Arts & Social Sciences (FASS)
+Programs | ADP English, ADP Mathematics, BS English, B.Ed (1.5 Years), MPhil Education, MPhil English, MPhil Mathematics, MPhil Urdu, PhD Education, PhD English Linguistics, PhD Mathematics, PhD Urdu
+
+--- FACULTY_FEIT
+Faculty Name | Faculty of Engineering & Information Technology (FEIT)
+Programs | BSCS, BSCS (AI), BS FinTech, MS Computer Science
+
+--- FACULTY_FAS
+Faculty Name | Faculty of Applied Sciences (FAS)
+Programs | BS Mathematics (Cyber Security), MPhil Environmental Science
+
+--- FACULTY_FS
+Faculty Name | Faculty of Sciences (FS)
+Programs | BS Anesthesia Technology, BS Aesthetics & Skin Care Technology, BS Dental Technology, BS Medical Laboratory Technology, BS Nursing, BS Radiology, BS Surgical Technology, Doctor of Physical Therapy
+
+--- BUSINESS_PROGRAMS
+Programs | BBA, MBA, MBA (Non-Business), MS Business Administration
+
+### FACILITIES
+Facilities | Hostel, Library, Mosque, Transport, Computer Labs, Research Labs
+
+### OFFICES
+Offices | AS&R, Committees, Examination, Governing Bodies, International Office, QEC, Sports Office, Student Affairs
+
+### FEE_STRUCTURE
+
+--- ADP_PROGRAMS
+ADP English | Admission Fee=11000 | Semester Fee=30250 | Extracurricular Fee=1000 | Total Fee=42250
+ADP Mathematics | Admission Fee=11000 | Semester Fee=30250 | Extracurricular Fee=1000 | Total Fee=42250
+
+--- BS_PROGRAMS 
+BBA | Admission Fee=0 | Semester Fee=38000 | Extracurricular Fee=1000 | Total Fee=39000
+BS FinTech | Admission Fee=11000 | Semester Fee=22000 | Extracurricular Fee=1000 | Total Fee=34000
+BS Anesthesia Technology | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+BS Aesthetics & Skin Care Technology | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+BS Computer Science(CS) | Admission Fee=11000 | Semester Fee=35000 | Extracurricular Fee=1000 | Total Fee=47000
+BS Computer Science (AI) | Admission Fee=11000 | Semester Fee=35000 | Extracurricular Fee=1000 | Total Fee=47000
+BS English | Admission Fee=11000 | Semester Fee=30250 | Extracurricular Fee=1000 | Total Fee=42250
+BS Dental Technology | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+BS Mathematics (Cyber Security) | Admission Fee=11000 | Semester Fee=30250 | Extracurricular Fee=1000 | Total Fee=42250
+BS Medical Laboratory Technology (MLT) | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+BS Nursing(BSN) | Admission Fee=35000 | Semester Fee=96000 | Extracurricular Fee=1000 | Total Fee=132000
+BS Radiology | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+BS Surgical Technology | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+Doctor of Physical Therapy (DPT) | Admission Fee=16000 | Semester Fee=38500 | Extracurricular Fee=1000 | Total Fee=55500
+
+--- PROFESSIONAL_PROGRAMS
+MBA | Admission Fee=16000 | Semester Fee=50000 | Extracurricular Fee=1000 | Total Fee=67000
+MBA (Non-Business) | Admission Fee=16000 | Semester Fee=50000 | Extracurricular Fee=1000 | Total Fee=67000
+B.Ed (1.5 Years) | Admission Fee=11000 | Semester Fee=25000 | Extracurricular Fee=1000 | Total Fee=37000
+
+--- MPHIL_MS_PROGRAMS
+MPhil Education | Admission Fee=16000 | Semester Fee=71500 | Extracurricular Fee=1000 | Total Fee=88500
+MPhil Environmental Science | Admission Fee=16000 | Semester Fee=50000 | Extracurricular Fee=1000 | Total Fee=67000
+MPhil English | Admission Fee=16000 | Semester Fee=82000 | Extracurricular Fee=1000 | Total Fee=99000
+MPhil Mathematics | Admission Fee=16000 | Semester Fee=63814 | Extracurricular Fee=1000 | Total Fee=80814
+MPhil Urdu | Admission Fee=16000 | Semester Fee=55000 | Extracurricular Fee=1000 | Total Fee=72000
+
+--MS_PROGRAMS
+MS Business Administration | Admission Fee=0 | Semester Fee=71500 | Extracurricular Fee=1000 | Total Fee=72500
+MS Computer Science | Admission Fee=16000 | Semester Fee=60775 | Extracurricular Fee=1000 | Total Fee=77775
+
+--- PHD_PROGRAMS
+PhD Education | Admission Fee=16000 | Semester Fee=94380 | Extracurricular Fee=1000 | Total Fee=111380
+PhD English Linguistics | Admission Fee=16000 | Semester Fee=120000 | Extracurricular Fee=1000 | Total Fee=137000
+PhD Mathematics | Admission Fee=16000 | Semester Fee=75000 | Extracurricular Fee=1000 | Total Fee=92000
+PhD Urdu | Admission Fee=16000 | Semester Fee=86515 | Extracurricular Fee=1000 | Total Fee=103515
+### FEE REFUND POLICY 
+--Fee Refund Policy
+The refund amount of Tuition Fee is subject to the following schedule:
+
+Timeline	Percentage of Fee
+Upto 10th day of commencement of classes	100% fee refund
+Upto 15th day of commencement of classes	80% fee refund
+Upto 20th day of commencement of classes	60% fee refund
+Upto 30th day of commencement of classes	50% fee refund
+31st day onwards of commencement of classes	No Refund
+
+###Foreign Applicants
+The credentials of an undergraduate applicant who holds a foreign nationality and who wishes to attend the University are evaluated in accordance with the general regulations governing admission of foreign nationals as approved by the Ministry of Foreign Affairs and the Ministry of Education, Government of Pakistan.
+Candidates from foreign countries should send their applications through the Embassies of their countries in Islamabad, and these must be routed through the Ministries of Foreign Affairs and Education, Government of Pakistan.
+No foreign student will be admitted in the University unless his/her admission after due scrutiny of his/her application, is confirmed by the University.
+
+--Admission Requirements for Afghan Students
+Consider the following conditions for admission:
+
+1. If an Afghan student has Visa (Passport) and Tazkira (Afghan CNIC), residency in Afghanistan and education record is also from Afghanistan he must provide.
+
+For Undergraduate:
+
+The age limit is 17-23 years before the closing date of application.
+60 % Marks for general subjects as per IBCC Pakistan equivalency formula
+65% Medical & Engineering subjects
+NOC from Afghan Conciliate
+Equivalency letter form Afghan Embassy
+Equivalency letter form IBCC
+NOC from Commissionerate
+
+MS/MPhil:
+
+35 Years maximum age limit at date of applications closing.
+Candidates must have completed 16 years of education.
+Minimum 2.5 CGPA or equivalent out of 4.0 is required in Bachelor's/Master’s degree (16 years of education)
+NOC from Afghan Conciliate
+Equivalency letter form Afghan Embassy
+Equivalency letter form IBCC/HEC
+NOC from Commissionerate
+
+2. If an Afghan student has Afghan CNIC Card, Visa (Passport) and residency in Pakistan but education record is from Afghanistan must provide.
+
+For Undergraduate:
+
+The age limit is 17-23 years before the closing date of application.
+60 % Marks for general subjects as per IBCC Pakistan equivalency formula
+65% Medical & Engineering subjects
+NOC from Afghan Conciliate
+Equivalency letter form Afghan Embassy
+Equivalency letter form IBCC
+NOC from Commissionerate
+
+MS/MPhil:
+
+35 Years maximum age limit at date of applications closing.
+Candidates must have completed 16 years of education.
+Minimum 2.5 CGPA or equivalent out of 4.0 is required in Bachelor's/Master’s degree (16 years of education)
+NOC from Afghan Conciliate
+Equivalency letter form Afghan Embassy
+Equivalency letter form IBCC/HEC
+NOC from Commissionerate
+
+3. If an Afghan student has a POR Card, residency in Pakistan and education record is also from Pakistan must be provided.
+
+For Undergraduate:
+
+The age limit is 17-23 years before the closing date of application.
+60 % Marks for general subjects as per IBCC Pakistan equivalency formula
+65% Medical & Engineering subjects
+NOC from Afghan Conciliate
+
+MS/MPhil:
+
+35 Years maximum age limit at date of applications closing.
+Candidates must have completed 16 years of education.
+Minimum 2.5 CGPA or equivalent out of 4.0 is required in Bachelor's/Master’s degree (16 years of education)
+NOC from Afghan Conciliate
+
+4. If an Afghan student has Afghan CNIC, Visa (Passport), residency in Pakistan and education record is also from Pakistan must be provided.
+
+For Undergraduate:
+
+The age limit is 17-23 years before the closing date of application.
+60 % Marks for general subjects as per IBCC Pakistan equivalency formula
+65% Medical & Engineering subjects
+NOC from Afghan Commissionerate.
+
+MS/MPhil:
+
+35 Years maximum age limit at date of applications closing.
+Candidates must have completed 16 years of education.
+Minimum 2.5 CGPA or equivalent out of 4.0 is required in Bachelor's/Master’s degree (16 years of education)
+NOC from Afghan Commissionerate.
+
+###About University
+The EDR Trust and the NWFP Government Charted the Northern University in the private sector, in accordance with NWFP Ordinance No. XLVIII of 2002, which was published in Extraordinary Gazette No. P.111 on November 2, 2002. The Higher Education Commission(HEC) recognizes it as a private University that confers degrees. The foundation stone was laid by the Governor, KP, in April 2005, and the inauguration of the campus was done by General Sawar Khan, President Northern University on 14th November 2008. Northern University was upgraded to the "W" level (formerly the "A" category) in March 2009. The university has one main campus located on Wattar  Road, Nowshera, providing a convenient location for visitors from all across the country.
+
+The University offers uniform and comprehensive programs that focus on subjects like Business Administration, Education, Computer Science, Basic Sciences, Social Sciences, Allied Health, Nursing, Humanities, and other related fields. These programs help students gain the necessary skills and knowledge to tackle the challenges of the new era. Currently, the University is comprised of four faculties, each equipped with sufficient resources to excel in their respective areas:
+
+Faculty of Administrative Sciences (FAS)
+
+Faculty of Arts and Social Sciences (FASS)
+
+Faculty of Engineering & Information Technology (FEIT)
+
+Faculty of Sciences (FS)
+
+Each of these faculties has the potential to become a center of excellence in its own domain.
+
+Northern University provides top-notch facilities and state-of-the-art laboratories to its students. These facilities have been carefully designed to provide an enriching and dynamic learning environment, enabling students to excel in their chosen fields.
+
+Northern University boasts cutting-edge labs that are equipped with the latest technology and equipment.These labs serve as hubs of innovation and practical learning. Whether it's the Faculty of Engineering & Information Technology, where students have access to computer labs and specialized equipment, or the Faculty of Sciences, with its research facilities, students can engage in hands-on experimentation and exploration.
+
+Our university takes great strides to provide not only high-quality education but also a nurturing environment for practical learning and personal growth. The state-of-the-art labs, well-equipped facilities, and advanced resources collectively contribute to an educational journey that prepares our students to meet the challenges of the future with confidence and competence.
+
+
+
+### TEAM
+
+--- BOARD_OF_TRUSTEES
+Chairman | Dr. M Jamil Sawar
+Vice Chairman | M Naeem Siddiqi
+General Secretary | Shazia Sawar
+President / Member | Ch. Iftikhar Ahmed Khan
+Finance Secretary | Taha Jamil Sawar
+Members | Saad Jamil Sawar, Sophia Bokhary
+
+--- RECTOR_OFFICE
+Rector / Dean FAS & FS | Dr. Mohsin Raza
+Pro-Rector | Taha Jamil Sawar
+
+--- FINANCE_OFFICE
+Director Finance | Dr. M Jamil Sawar
+Deputy Director Finance | Muhammad Ayub
+Assistant Director Finance | Aqeel Ahmed
+Accounts Officer | Younus Khan
+
+### SCHOLARSHIPS
+Scholarships | Merit-based, Need-based, Hafiz-e-Quran, Sibling Discount, Special Talent
+
+### ADMISSIONS
+Requirements | Intermediate or equivalent qualification, Minimum 50% marks, Entry test, Interview
+Sessions | Spring (Jan-Feb), Fall (Jul-Aug)
+
+##REQUIRED Documnets for Admission
+1. Academic Documents
+
+High School / Intermediate Certificate (e.g., FA/FSc, A-Levels, O/A Levels, Matric/Intermediate)
+Detailed Marksheets of all years/semesters
+Equivalent Certificate (if O/A Levels — from IBCC in Pakistan)
+Transcript(s) (for Bachelor’s → if applying for Master’s, etc.)
+Degree Completion Certificate (if already graduated)
+
+2. Identity Documents
+
+Original CNIC / B-Form / Passport
+Student Copy of CNIC / Form B
+Passport-size Photographs (often 4–6 copies)
+
+3.ADDITIONAL Documents
+Financial / Sponsorship Documents (if scholarship or funded seat)
+
+Domicile Certificate
+
+Guardian CNIC Copy
+
+### FAQ
+Q | Where is  University located?
+A | Northern University is located at Wattar Wali Road, Nowshera, Pakistan.
+
+Q | How many faculties does Northern University have?
+A | Northern University has four faculties: FASS, FEIT, FAS, FS.
+
+Q | What programs are offered in Computer Science?
+A | BSCS, BSCS (AI), MS Computer Science.
+
+Q | Does Northern University provide hostel facilities?
+A | Yes, hostel facilities are available.
+
+Q | Does Northern University offer scholarships?
+A | Yes, merit-based and need-based scholarships are offered.
